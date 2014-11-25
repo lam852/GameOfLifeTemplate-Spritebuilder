@@ -29,7 +29,6 @@
 #import "CCTMXXMLParser.h"
 #import "CCTiledMap.h"
 
-
 @class CCTiledMapInfo;
 @class CCTiledMapLayerInfo;
 @class CCTiledMapTilesetInfo;
